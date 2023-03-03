@@ -1,6 +1,6 @@
-Movie 1
-Movie 2
-Movie 3
+Film 1
+Film 2
+Film 3
 Apple
 Banana
 Orange
